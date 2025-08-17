@@ -1,6 +1,4 @@
 # 👋I'm Hywongwoo Eo
-"여태까지 게임과 함께 살아왔고, 앞으로도 게임과 함께 살아가고 싶습니다."
-
 
 ## 📖공부중인 기술들...
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
